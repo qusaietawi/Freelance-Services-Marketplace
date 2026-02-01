@@ -132,7 +132,7 @@ This project was created **for educational purposes only** and is not intended f
 
 ## 👨‍💻 Author
 
-**Ali Hamza**
+**Qusai Etawi**
 Computer Science Student
 
 ---
